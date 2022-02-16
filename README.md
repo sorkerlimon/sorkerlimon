@@ -10,7 +10,7 @@
 </p>
 
 <p align='center'>
-      <img align="center"><img src="https://github.com/RobinaMirbahar/Readme-Profile-Sample-Temaplate/blob/main/Banner/samplebanner.gif">
+      <img align="center"><img src="https://drive.google.com/file/d/1t3MX5iOK3SeZOBSc1UPSEiC_ukAJV-I-/view?usp=sharing">
 </p>
 
 
