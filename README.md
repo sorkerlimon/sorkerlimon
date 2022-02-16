@@ -10,7 +10,7 @@
 </p>
 
 <p align='center'>
-      <img align="center"><img src="https://github.com/sorkerlimon/Protfolio/blob/main/Images/Limon.jpg">
+      <img align="center"><img src="https://github.com/sorkerlimon/Protfolio/blob/main/Images/Git.jpg">
 </p>
 
 
