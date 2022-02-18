@@ -94,12 +94,9 @@ Author- [@sorkerlimon](https://www.github.com/sorkerlimon)
 
 
 <h3 align="center">A passionate Software, Artificial Inteligence, System administrator from Bangladesh</h3>
+<h3 align="left">Connect with me: +8801635200923 </h3>
+<h3 align="left">Connect with me: sorkerlimon18@gmail.com </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 
 
 
