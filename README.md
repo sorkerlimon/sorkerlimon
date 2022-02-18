@@ -63,7 +63,7 @@ Author - [@sorkerlimon](https://github.com/sorkerlimon)
 
 ## - Languages and Tools I used ⚙️ ...
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-Author- [@MD LIMON](https://www.github.com/sorkerlimon)
+Author- [@sorkerlimon](https://www.github.com/sorkerlimon)
 
 <p align="center">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">  
