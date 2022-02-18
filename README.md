@@ -20,7 +20,8 @@ I'm Limon from Bangladesh, I am working as a system administrator at Intelligen
 
 ## 🧠 I'm currently learning..
 -   Machine Learning.
--   Cloud Native, Kubernetes, Selenium& Ansible .
+-   Android Development.
+-   Cloud Native, Kubernetes, Selenium& Ansible.
 
 ### - Currently Working on..
 - 🔭 Working on [System Administrator](https://www.iimdirect.com/). 
