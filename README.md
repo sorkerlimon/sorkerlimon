@@ -15,7 +15,7 @@
 
 
 ## 🚀 About Me
-I'm Limon from Bangladesh, I am working as a system administrator at Intelligent Image Management Limited & Freelancer, Cloud Architect, AWS Techical Trainer and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies and Machine Learning & Software Development .I worked on DevOps too on [Upwork](https://www.upwork.com). [Upwork](https://www.fiverr.com/)
+I'm Limon from Bangladesh, I am working as a system administrator at Intelligent Image Management Limited & Freelancer, Cloud Architect, AWS Techical Trainer and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies and Machine Learning & Software Development .I worked on DevOps too on [Upwork](https://www.upwork.com). [Fiverr](https://www.fiverr.com/)
 
 
 ## 🧠 I'm currently learning..
