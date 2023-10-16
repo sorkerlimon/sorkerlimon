@@ -15,34 +15,16 @@
 
 
 ## 🚀 About Me
-I'm Limon from Bangladesh, I am working as a system administrator at Intelligent Image Management Limited & Freelancer, Cloud Architect, AWS Techical Trainer and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies and Machine Learning & Software Development .I worked on DevOps too on [Upwork](https://www.upwork.com). [Fiverr](https://www.fiverr.com/)
+I'm Limon from Bangladesh, I am working as a system administrator at Intelligent Image Management Limited & Freelancer, Cloud Architect, AWS Technical Trainer, and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies Machine Learning & Software Development.I worked on DevOps too on [Upwork](https://www.upwork.com). [Fiverr](https://www.fiverr.com/)
 
 
 ## 🧠 I'm currently learning..
--   Machine Learning.
--   Android Development.
--   Cloud Native, Kubernetes, Selenium& Ansible.
+-   Data Science.
 
 ### - Currently Working on..
 - 🔭 Working on [System Administrator](https://www.iimdirect.com/). 
-
-## Other Common Github Profile Sections!
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
-
+- 🔭 Big Data Analysis in Robi Telecom BD
+- 🔭 Senior Developer in ShopingKoro Online E-commerce Site.
 
 ## - Skills and Experience
 - Amazon Cloud <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/amazonaws.svg" alt="AWS" height='40' style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
@@ -93,7 +75,7 @@ Author- [@sorkerlimon](https://www.github.com/sorkerlimon)
 
 
 
-<h3 align="center">A passionate Software, Artificial Inteligence, System administrator from Bangladesh</h3>
+<h3 align="center">A passionate Software, Artificial intelligence, System administrator from Bangladesh</h3>
 <h3 align="left">Connect with me: +8801635200923 </h3>
 <h3 align="left">Connect with me: sorkerlimon18@gmail.com </h3>
 
