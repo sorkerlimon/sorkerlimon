@@ -19,10 +19,11 @@ DevOps Engineer with 3 years of hands-on experience in CI/CD pipelines, cloud in
 
 
 ## 🧠 I'm currently learning..
--   Data Science.
+-   DevSecOps with Advance tools and Technology.
 
 ### - Currently Working on..
-- 🔭 Working on [System Administrator](https://www.iimdirect.com/). 
+- 🔭 Working on [DevOps Engineer](https://technobd.com/).
+- 🔭 Privious company [System Administrator](https://www.iimdirect.com/). 
 - 🔭 Big Data Analysis in Robi Telecom BD
 - 🔭 Senior Developer in ShopingKoro Online E-commerce Site.
 
