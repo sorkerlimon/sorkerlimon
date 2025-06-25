@@ -28,9 +28,10 @@ DevOps Engineer with 3 years of hands-on experience in CI/CD pipelines, cloud in
 - 🔭 Senior Developer in ShopingKoro Online E-commerce Site.
 
 ## - Skills and Experience
-- Amazon Cloud <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/amazonaws.svg" alt="AWS" height='40' style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
-- Google <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/googlecloud.svg" alt="Google" height='40' style="vertical-align:top; margin:4px"> &nbsp;&nbsp; 
-- Microsoft Azure <img src="https://github.com/RobinaMirbahar/RobinaMirbahar/blob/main/SVG/Services/microsoftazure.svg" alt="azure" height='40' style="vertical-align:top; margin:4px">
+- DevOps
+- Cloud Engineer 
+- System Administrator
+- Backend Developer
 
  
 ## - Md Limon working Stats
