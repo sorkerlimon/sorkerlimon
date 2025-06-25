@@ -15,7 +15,7 @@
 
 
 ## 🚀 About Me
-I'm Limon from Bangladesh, I am working as a system administrator at Intelligent Image Management Limited & Freelancer, Cloud Architect, AWS Technical Trainer, and Microsoft Certified Trainer. I really enjoy learning Cloud Technologies Machine Learning & Software Development.I worked on DevOps too on [Upwork](https://www.upwork.com). [Fiverr](https://www.fiverr.com/)
+DevOps Engineer with 3 years of hands-on experience in CI/CD pipelines, cloud infrastructure (AWS, Azure), containerization (Docker, Kubernetes), and automation using tools like Ansible and Terraform. Skilled in optimizing deployment workflows, monitoring systems, and ensuring high availability and scalability of applications. Passionate about streamlining development operations and enhancing system reliability..I worked on DevOps too on [Upwork](https://www.upwork.com). [Fiverr](https://www.fiverr.com/)
 
 
 ## 🧠 I'm currently learning..
